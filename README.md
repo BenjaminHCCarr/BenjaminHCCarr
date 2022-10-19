@@ -25,7 +25,7 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)<br/>
 ![Packer](https://img.shields.io/badge/packer-%231563FF.svg?style=for-the-badge&logo=packer&logoColor=white)<br/>
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Openstack](https://img.shields.io/badge/openstack-%234285F4.svg?style=for-the-badge&logo=openstack&logoColor=red)![ProxMox]((https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=proxmox&logoColor=orange)<br/>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Openstack](https://img.shields.io/badge/openstack-%234285F4.svg?style=for-the-badge&logo=openstack&logoColor=red)![ProxMox](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=proxmox&logoColor=orange)<br/>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 </details>
 
