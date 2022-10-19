@@ -21,8 +21,7 @@
   <br/>
 
 ![bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)<br/>
-![github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)<br/>
-![Gitlab](https://img.shields.io/badge/gitlab-%23e0b580.svg?style=for-the-badge&logo=gitlab&logoColor=white)<br/>
+![github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)![Gitlab](https://img.shields.io/badge/gitlab-%23e0b580.svg?style=for-the-badge&logo=gitlab&logoColor=white)<br/>
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)<br/>
 ![Packer](https://img.shields.io/badge/packer-%231563FF.svg?style=for-the-badge&logo=packer&logoColor=white)<br/>
 
